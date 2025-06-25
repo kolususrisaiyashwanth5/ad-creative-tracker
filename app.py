@@ -48,7 +48,7 @@ if submitted:
 
 # --- DISPLAY ENTRIES ---
 st.markdown("---")
-st.subheader("📋 Creative List")
+st.subheader(" Creative List")
 
 # Load data if file exists
 if os.path.exists(DATA_FILE):
