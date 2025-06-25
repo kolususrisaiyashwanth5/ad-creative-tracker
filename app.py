@@ -9,7 +9,7 @@ st.set_page_config(page_title="Ad Creative Tracker", layout="centered")
 DATA_FILE = "creatives.csv"
 
 # --- PAGE HEADER ---
-st.title("🎯 Ad Creative Tracker")
+st.title(" Ad Creative Tracker")
 st.markdown("Track and manage ad creatives across campaigns with live status and feedback.")
 
 st.markdown("---")
